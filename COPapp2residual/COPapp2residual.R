@@ -1,36 +1,4 @@
-# ------------------------------------------------------------------------------
-# Q Name:       COPapp2residual
-# ------------------------------------------------------------------------------
-# Published in: Estimation of the Dependence Parameter in Bivariate Archimedean
-#               Copula Models under Misspecification
-# ------------------------------------------------------------------------------
-# Description:  COPapp2residual shows pairwise scatter plots of based on
-#               AR(1)-GJR-GARCH(1,1) / AR(1)-GJR-GARCH(2,1) / fitted residuals. 
-#               The upper triangular plots show the pairwise residuals
-#               scatter points. The lower  triangular plots show the scatter
-#               points computed from empirical cdf of the residuals. The 
-#               companies Volkswagen (VW) and Thyssen-Krupp (TK) as well as the 
-#               stock indices DAX and DJIA are contained. 
-# ------------------------------------------------------------------------------
-# Usage:        -
-# ------------------------------------------------------------------------------
-# Inputs:       DataDAXDJTKVW.txt
-# ------------------------------------------------------------------------------
-# Output:       COPapp2residual returns pairwise scatter plots from AR-GJR-GARCH 
-#               residuals (upper triangular) and from residuals mapped on unit 
-#               square by the empirical cdf (lower triangular), including DAX, 
-#               DJ, VW, and TK.  
-# ------------------------------------------------------------------------------
-# Example:       
-#               
-# ------------------------------------------------------------------------------
-# See also:     COPapp1prices, COPapp1return, COPapp1residual
-# ------------------------------------------------------------------------------
-# Keywords:     residual, correlation, AR, GARCH, empirical cdf
-# ------------------------------------------------------------------------------
-# Author:       Ostap Okhrin, Yafei Xu, Verena Weber
-# ------------------------------------------------------------------------------
-
+graphics.off()
 rm(list = ls(all = TRUE))
 
 # please install these packages if necessary
