@@ -1,2 +1,3 @@
 # COP-Estimation-Misspec
-code used in the masters thesis 
+R code used in the master thesis "Estimation of the Dependence Parameter in Bivariate
+Archimedean Copula Models Under Misspecification"
