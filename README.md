@@ -1,6 +1,36 @@
+![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
+
 # COP-Estimation-Misspec
 R code used in the master thesis "Estimation of the Dependence Parameter in Bivariate
 Archimedean Copula Models Under Misspecification"
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPapp2residual](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPapp2residual)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[CopDynEst](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/CopDynEst)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPmisspecClayGum](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPmisspecClayGum)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPp.values](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPp.values)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPretaparch](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPretaparch)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPSimStudyBoxpl](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPSimStudyBoxpl)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPSimStudyResMix](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPSimStudyResMix)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPSimStuPercRelBiasLarge](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPSimStuPercRelBiasLarge)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPSimStuPercRelBiasMix](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPSimStuPercRelBiasMix)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPSimSudyResLarge](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPSimSudyResLarge)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPtautotheta](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPtautotheta)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPthetasDiff](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPthetasDiff)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[CopVaRBackTesRes1](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/CopVaRBackTesRes1)**
+
+## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[CopVaRBackTesRes2](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/CopVaRBackTesRes2)**
 
 # Abstract
 Copulas have become increasingly popular in multivariate statistics and financial applications.
