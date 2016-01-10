@@ -1,8 +1,8 @@
-![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
-
 # COP-Estimation-Misspec
 R code used in the master thesis "Estimation of the Dependence Parameter in Bivariate
 Archimedean Copula Models Under Misspecification"
+
+![http://quantnet.wiwi.hu-berlin.de/style/banner.png](http://quantnet.wiwi.hu-berlin.de/style/banner.png)
 
 ## ![qlogo](http://quantnet.wiwi.hu-berlin.de/graphics/quantlogo.png) **[COPapp2residual](https://github.com/QuantLet/COP-Estimation-Misspec/tree/master/COPapp2residual)**
 
