@@ -37,7 +37,8 @@ Output:      COPapp2residual returns pairwise scatter plots from AR-GJR-GARCH
 ```
 
 
-![Picture1](<PIC_NAME>.png)
+![Picture1](res_DAX_DJ.pdf)
+![Picture2](res_VW_TK.pdf)
 
 
 ```R
