@@ -40,7 +40,7 @@ Output:  Returns two plots (as pdf files) of the 9 time series for each
 
 
 ![Picture1](Dyn._Thetas_Indices.png)
-![Picture2](Dyn._Thetas_Stockss.png)
+![Picture2](Dyn._Thetas_Stocks.png)
 
 
 ```R
