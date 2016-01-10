@@ -33,7 +33,7 @@ Datafile: DataDAXDJTKVW.txt
 
 Input: DataDAXDJTKVW.txt
 
-Output:  COPretaparch returns tables with the estimations of the mu, 
+Output:  COPretaparch returns tables with the estimates of the mu, 
          the parameters of the model, skewness and shape, Ljung-Box and 
          the Kolmogorov-Smirnov test statistic for the stocks and the 
          indices. The corresponding standard deviations are given in the
