@@ -1,0 +1,36 @@
+
+Name of Quantlet: COPretaparch
+
+Published in: Estimation of the Dependence Parameter in Bivariate Archimedean
+              Copula Models under Misspecification
+
+Description: COPretaparch fits a AR(1)-GJR-GARCH(2,1) model to the daily 
+             returns of the indices Dow Jones (DJ) and DAX and a 
+             AR(1)-GJR-GARCH(1,1) model to the daily returns of the stocks of
+             Volkswagen (VW) and Thyssen-Krupp (TK). The considered time span
+             is 26.08.2005 to 13.08.2015. It returns the mu, the parameters 
+             of the model, skewness and shape, Ljung-Box and the 
+             Kolmogorov-Smirnov test statistic. The corresponding standard 
+             deviations are given in the line below the values. Finally, the
+             parameters of the distribution of the obtained residuals are
+             estimated.
+
+Keywords: residual, AR, GARCH, empirical cdf
+
+See also: CopDynEst
+
+Author: Verena Weber
+
+Submitted:  
+
+Datafile: DataDAXDJTKVW.txt
+
+Input: DataDAXDJTKVW.txt
+
+Output:  COPretaparch returns tables with the estimations of the mu, 
+         the parameters of the model, skewness and shape, Ljung-Box and 
+         the Kolmogorov-Smirnov test statistic for the stocks and the 
+         indices. The corresponding standard deviations are given in the
+         line below the values. The parameters of the distribution of the
+         obtained residuals are also summarised in a table.
+
