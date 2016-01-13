@@ -1,19 +1,19 @@
 
-Name of Quantlet: COPp.values
+Name of Quantlet: 'COPp.values'
 
-Published in: Estimation of the Dependence Parameter in Bivariate Archimedean
-              Copula Models under Misspecification
+Published in: 'Estimation of the Dependence Parameter in Bivariate Archimedean
+              Copula Models under Misspecification'
 
-Description: Plots the p-values obtained from a rank-based Goodness-of-Fit 
+Description: 'Plots the p-values obtained from a rank-based Goodness-of-Fit 
              test applied to moving windows of size 250 testing Frank,
              Gumbel, and  Clayton to be the adequate copula to model the
              dependence between series of AR-GJR-GARCH residuals from
              returns of DAX and DJ as well as from returns of Volkswagen
              and Thyssen-Krupp. The dependence parameter of the tested model 
              was estimated using Maximum Likelihood. The considered time
-             span is 26.08.2005 to 13.08.2015.
+             span is 26.08.2005 to 13.08.2015.'
 
-Keywords: Copula, Gumbel, Frank, Clayton, GoF test, p-value
+Keywords: 'Copula, Gumbel, Frank, Clayton, GoF test'
 
 See also: COPretaparch, CopDynEst, COPapp2residual
 
@@ -23,8 +23,6 @@ Submitted:
 
 Datafile: P.ValuesIndices.txt, P.ValuesStocks.txt
 
-Input: P.ValuesIndices.txt, P.ValuesStocks.txt
-
-Output:  Returns a plot of the 3 time series for each 
-         of the two portfolios (DAX and  DJ, VW and TK).
+Output:  'Returns a plot of the 3 time series for each 
+         of the two portfolios (DAX and  DJ, VW and TK).'
 

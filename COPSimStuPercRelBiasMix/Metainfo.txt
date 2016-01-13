@@ -1,20 +1,20 @@
 
 Name of Quantlet: COPSimStuPercRelBiasMix
 
-Published in: Estimation of the Dependence Parameter in Bivariate Archimedean
-              Copula Models under Misspecification
+Published in: 'Estimation of the Dependence Parameter in Bivariate Archimedean
+              Copula Models under Misspecification'
 
-Description: Plots the percentage relative bias of the estimates obtained for 
+Description: 'Plots the percentage relative bias of the estimates obtained for 
              the copula dependence parameter theta in a simulation study
              using ML, the inversion of Kendall's tau, and a p-value weighted
              average of the two in combination with the Gumbel and the
              Clayton copula. The observations come from convex sums of
              Gumbel and Clayton. The estimator is indicated by line colour
              and shape, the copula used in estimation is indicated by the
-             fill colour of each shape.
+             fill colour of each shape.'
 
-Keywords: Copula, Gumbel, Frank, Clayton, estimation, dependence parameter,
-          misspecification, simulation study, mixture
+Keywords: 'Copula, Gumbel, Frank, Clayton, estimation, Kendall's tau, 
+          maximum-likelihood, misspecification, simulation' 
 
 See also: COPtautotheta
 
@@ -26,10 +26,6 @@ Datafile: ResMix0.1.txt, ResMix0.2.txt, ResMix0.3.txt, ResMix0.4.txt,
           ResMix0.5.txt, ResMix0.6.txt, ResMix0.7.txt, ResMix0.8.txt, 
           ResMix0.9.txt
 
-Input: ResMix0.1.txt, ResMix0.2.txt, ResMix0.3.txt, ResMix0.4.txt, 
-       ResMix0.5.txt, ResMix0.6.txt, ResMix0.7.txt, ResMix0.8.txt, 
-       ResMix0.9.txt
-
-Output: Returns a plot of the percentage relative bias for each 
+Output: 'Returns a plot of the percentage relative bias for each 
         estimator in combination with each copula as a function 
-        of alpha.
+        of alpha.'
